@@ -1,4 +1,3 @@
-```markdown
 # Spring-Mass-Damper: SMC vs. PID Control
 
 A lightweight simulation comparing **Boundary-Layer Sliding Mode Control (SMC)** and **PID with Anti-Windup** under severe plant parameter mismatch and actuator saturation limits.
