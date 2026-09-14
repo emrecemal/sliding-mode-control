@@ -46,3 +46,7 @@ Both experiments run with physical force limits of **±15 N** on a real plant ($
 * `slidingModeController.py` — Boundary-layer SMC implementation ($u = u_{\text{eq}} + u_{\text{sw}}$).
 * `simulator.py` — Discrete simulation loop and plotting routines.
 
+
+| Exact Parameters | Parameter Mismatch |
+| :---: | :---: |
+| <img src="docs/experiment1_exact.png" width="100%" alt="Exact Parameters"> | <img src="docs/experiment2_mismatch.png" width="100%" alt="Mismatch Parameters"> |
